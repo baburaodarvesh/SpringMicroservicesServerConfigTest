@@ -1,5 +1,5 @@
 my:
-   greeting: Hello From config server
+   greeting: Hello world From config server application file in github.com
    list:
        values: One, Two, Three, Four
 
