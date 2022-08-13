@@ -1,5 +1,5 @@
 my:
-   greeting: Sixth time updated Hello world From config server application file in github.com
+   greeting: Seventh time updated Hello world From config server application file in github.com
    list:
        values: One, Two, Three, Four
 
